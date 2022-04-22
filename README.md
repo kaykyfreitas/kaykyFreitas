@@ -6,7 +6,7 @@
   <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyFreitas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div display="flex" justify-content="center">
+<div display="flex" text-align="center">
   
   <img width="32px" height="32px" margin="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="32px" height="32px" margin="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
