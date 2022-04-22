@@ -6,16 +6,16 @@
   <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyFreitas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div display="flex" text-align="center">
+<div style="widhth:100%; display:flex; text-align:center;">
   
-  <img width="32px" height="32px" margin="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="32px" height="32px" margin="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="32px" height="32px" margin="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="32px" height="32px" margin="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="32px" height="32px" margin="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img width="32px" height="32px" margin="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width="32px" height="32px" margin="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img width="32px" height="32px" margin="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img style="width=:32px; height:32px; margin:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img style="width=:32px; height:32px; margin:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img style="width=:32px; height:32px; margin:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img style="width=:32px; height:32px; margin:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img style="width=:32px; height:32px; margin:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img style="width=:32px; height:32px; margin:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img style="width=:32px; height:32px; margin:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img style="width=:32px; height:32px; margin:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   
 </div>
 
