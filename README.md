@@ -6,6 +6,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyFreitas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+<!--
+  
 <div style="widhth:100%; display:flex; aling-items:center; justify-content:center;" margin="25px">
   
   <img style="width=:32px; height:32px; margin:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -19,6 +21,8 @@
   
 </div>
   
+-->
+
   ##
 
   ![Snake animation](https://github.com/kaykyFreitas/kaykyFreitas/blob/output/github-contribution-grid-snake.svg)
