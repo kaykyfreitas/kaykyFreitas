@@ -18,8 +18,10 @@
   <img style="width=:32px; height:32px; margin:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   
 </div>
-
   
+  ##
+
+  ![Snake animation](https://github.com/kaykyFreitas/kaykyFreitas/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 **kaykyFreitas/kaykyFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
