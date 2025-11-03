@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kayky Freitas</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
 
-- 🔭 I’m currently working on [Sinqia](https://sinqia.com.br/)
+- 🔭 I’m currently working on [Itaú](https://www.itau.com.br/)
 
 - 🌱 I’m currently learning **Java, Spring Boot, Go, SQL and Docker**
 
