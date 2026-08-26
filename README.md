@@ -26,7 +26,7 @@ Olá! Sou engenheiro de software no Itaú Unibanco, com quatro anos de experiên
 
 **Evolução técnica**
 
-Comecei em aplicações Java e processamento batch; hoje trabalho com microsserviços cloud native, de Spring Boot a Quarkus, e com a plataforma que os opera. O passo atual é Go — na pós-graduação Go Expert (Full Cycle) —, com foco em concorrência, performance e no ecossistema que sustenta ferramentas como Kubernetes, Docker e Terraform.
+Comecei em aplicações Java e processamento batch; hoje trabalho com microsserviços cloud native, de Spring Boot a Quarkus, e com a plataforma que os opera. O passo atual é Go, na pós-graduação Go Expert (Full Cycle), com foco em concorrência, performance e no ecossistema que sustenta ferramentas como Kubernetes, Docker e Terraform.
 
 **Fora do expediente**
 
@@ -46,9 +46,5 @@ Sou daqueles que gostam de abrir o capô das ferramentas do dia a dia: ler inter
     <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </p>
-  <p>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaykyfreitas&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyfreitas&layout=compact&langs_count=7&theme=graywhite&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
   </p>
 </div>
